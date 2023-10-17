@@ -5,10 +5,11 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
+        num = 0
         for char in t:
-            if s == "": return True
-            elif (s[0] == char): s = s[1:]
+            if num == len(s): return True
+            elif (s[num] == char): num += 1
         
-        if s == "": return True
+        if num == len(s): return True
         else: return False
         
