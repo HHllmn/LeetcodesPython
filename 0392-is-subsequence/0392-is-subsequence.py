@@ -10,6 +10,5 @@ class Solution(object):
             if num == len(s): return True
             elif (s[num] == char): num += 1
         
-        if num == len(s): return True
-        else: return False
+        return num == len(s)
         
