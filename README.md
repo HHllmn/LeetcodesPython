@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HHllmn/LeetcodesPython/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/HHllmn/LeetcodesPython/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/HHllmn/LeetcodesPython/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/HHllmn/LeetcodesPython/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
