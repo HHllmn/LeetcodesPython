@@ -5,15 +5,13 @@ class Solution(object):
         :rtype: int
         """
         profit = 0
-        minPrice = 10000000000
+        minPrice = prices[0]
 
-        for i in range(len(prices)):
+        for i in range(1,len(prices)):
             if (prices[i] < minPrice):
                 minPrice = prices[i]
-            else:
-                potentialProfit = prices[i] - minPrice
-                if (potentialProfit > profit):
-                    profit = potentialProfit
+            elif (prices[i] - minPrice > profit):
+                profit = prices[i] - minPrice
   
         return profit
     
