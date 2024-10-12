@@ -1,4 +1,5 @@
 from collections import Counter
+import heapq
 
 class Solution(object):
     def topKFrequent(self, nums, k):
@@ -9,19 +10,17 @@ class Solution(object):
         """
         
         count = Counter(nums)
-        
-        freq_buckets = [[] for _ in range(len(nums) + 1)]
+
+        heap = []
 
         for num, freq in count.items():
-            freq_buckets[freq].append(num)
+            heapq.heappush(heap, (freq, num))
 
-        res = []
-
-        for i in range(len(freq_buckets) -1, 0, -1):
-            for num in freq_buckets[i]:
-                res.append(num)
-                if len(res) == k:
-                    return res
+            if len(heap) > k:
+                heapq.heappop(heap)
+            
+        return [num for freq, num in heap]
+        
 
 
 
