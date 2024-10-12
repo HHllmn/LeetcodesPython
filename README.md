@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/HHllmn/LeetcodesPython/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HHllmn/LeetcodesPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/HHllmn/LeetcodesPython/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/HHllmn/LeetcodesPython/tree/master/0347-top-k-frequent-elements) |
@@ -74,5 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HHllmn/LeetcodesPython/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
