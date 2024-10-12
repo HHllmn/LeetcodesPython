@@ -6,10 +6,10 @@ class Solution(object):
         :rtype: bool
         """
         alphabet = [0] * 26
-        for c in s:
-            alphabet[ord(c) - ord('a')] += 1
-        for c in t:
-            alphabet[ord(c) - ord('a')] -= 1
+        for char in s:
+            alphabet[ord(char)-ord('a')] += 1
+        for char in t:
+            alphabet[ord(char)-ord('a')] -= 1
         for i in alphabet:
             if i != 0:
                 return False
