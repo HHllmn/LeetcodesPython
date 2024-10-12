@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HHllmn/LeetcodesPython/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/HHllmn/LeetcodesPython/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HHllmn/LeetcodesPython/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/HHllmn/LeetcodesPython/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
