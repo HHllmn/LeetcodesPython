@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0189-rotate-array) |
+| [1585-the-kth-factor-of-n](https://github.com/HHllmn/LeetcodesPython/tree/master/1585-the-kth-factor-of-n) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HHllmn/LeetcodesPython/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/HHllmn/LeetcodesPython/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
