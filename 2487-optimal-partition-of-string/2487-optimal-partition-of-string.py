@@ -5,18 +5,16 @@ class Solution(object):
         :rtype: int
         """
 
-        substrings = []
-        current = []
+        count = 1
+        current = set()
 
         for char in s:
             if char in current:
-                substrings.append(''.join(current))
-                current[:] = []
+                count += 1
+                current.clear()
 
-            current.append(char)
+            current.add(char)
         
-        substrings.append(''.join(current))
-        
-        return len(substrings)
+        return count
 
         
