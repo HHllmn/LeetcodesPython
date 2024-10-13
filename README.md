@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HHllmn/LeetcodesPython/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/HHllmn/LeetcodesPython/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/HHllmn/LeetcodesPython/tree/master/0347-top-k-frequent-elements) |
+| [2487-optimal-partition-of-string](https://github.com/HHllmn/LeetcodesPython/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HHllmn/LeetcodesPython/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/HHllmn/LeetcodesPython/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HHllmn/LeetcodesPython/tree/master/0242-valid-anagram) |
+| [2487-optimal-partition-of-string](https://github.com/HHllmn/LeetcodesPython/tree/master/2487-optimal-partition-of-string) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/HHllmn/LeetcodesPython/tree/master/1585-the-kth-factor-of-n) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/HHllmn/LeetcodesPython/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
