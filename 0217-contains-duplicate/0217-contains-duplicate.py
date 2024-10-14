@@ -5,13 +5,5 @@ class Solution(object):
         :rtype: bool
         """
 
-        seen = set()
-
-        for i in nums:
-            if i in seen:
-                return True
-            else:
-                seen.add(i)
-        
-        return False
+        return len(nums) != len(set(nums))
         
