@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/HHllmn/LeetcodesPython/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/HHllmn/LeetcodesPython/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/HHllmn/LeetcodesPython/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HHllmn/LeetcodesPython/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HHllmn/LeetcodesPython/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HHllmn/LeetcodesPython/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/HHllmn/LeetcodesPython/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HHllmn/LeetcodesPython/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2487-optimal-partition-of-string](https://github.com/HHllmn/LeetcodesPython/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HHllmn/LeetcodesPython/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HHllmn/LeetcodesPython/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/HHllmn/LeetcodesPython/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HHllmn/LeetcodesPython/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HHllmn/LeetcodesPython/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HHllmn/LeetcodesPython/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HHllmn/LeetcodesPython/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/HHllmn/LeetcodesPython/tree/master/2487-optimal-partition-of-string) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HHllmn/LeetcodesPython/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
