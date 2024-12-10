@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HHllmn/LeetcodesPython/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HHllmn/LeetcodesPython/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/HHllmn/LeetcodesPython/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HHllmn/LeetcodesPython/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HHllmn/LeetcodesPython/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/HHllmn/LeetcodesPython/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/HHllmn/LeetcodesPython/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HHllmn/LeetcodesPython/tree/master/0242-valid-anagram) |
